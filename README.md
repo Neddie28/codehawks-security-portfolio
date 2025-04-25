@@ -1,0 +1,1 @@
+Performed a detailed manual smart contract security review of the PasswordStore protocol, an application leveraging blockchain technology for secure password management through the implementation of strict and granular access control.
